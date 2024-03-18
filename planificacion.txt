@@ -1,0 +1,7 @@
+la pieza tiene una serie de casillas a las que se puede mover(ignorando legalidad) -> pieza.comportamiento(movimiento)
+
+dada una casilla destino, la pieza tiene que poder generar una ruta a partir de su comportamiento
+
+al recorrer esas casillas pertenecientes a la ruta identificar si alguna esta ocupada, y por qué pieza
+
+decidir en base al color de la pieza encontrada en la ruta (x ej)
